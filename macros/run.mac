@@ -1,0 +1,12 @@
+
+# ---------------------------------------------------------------------------- #
+#                       DEFAULT FILE NAME FOR SAVING DATA                      #
+# ---------------------------------------------------------------------------- #
+/NameOfFile/NameOfFile ../Prova60
+
+/gps/particle mu-
+/gps/ene/min 1 GeV
+/gps/ene/max 2 GeV
+
+
+/run/beamOn 100000

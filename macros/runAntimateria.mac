@@ -1,0 +1,26 @@
+
+/gps/verbose 0
+/gps/ene/type Pow
+/gps/ene/gradient 0
+/gps/ene/intercept 1 
+/gps/position 0 0 0 cm
+/gps/direction 0 0 1
+
+
+/gps/ene/type Pow
+/gps/ene/alpha -1.
+
+
+
+/gps/ene/min 20 MeV
+/gps/ene/max 500 MeV
+
+/gps/particle proton 
+/NameOfFile/NameOfFile Proton
+/run/beamOn 100000
+        
+
+/gps/particle anti_proton 
+/NameOfFile/NameOfFile Antiproton
+/run/beamOn 100000
+        

@@ -1,0 +1,10 @@
+PDG Encoding for particles:
+gamma = 22
+e- = 11
+e+ = -11
+mu- = 13
+mu+ = -13
+pi- = -211
+pi+ = 211
+pi0 = 111
+proton = 2212

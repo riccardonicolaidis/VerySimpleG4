@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "Analisi.C": "cpp",
+        "*.icc": "cpp"
+    }
+}

@@ -1,0 +1,28 @@
+
+/gps/verbose 0
+/gps/ene/type Lin
+/gps/ene/gradient 0
+/gps/ene/intercept 1 
+/gps/position 0 0 0 cm
+/gps/direction 0 0 1
+
+/GeneralPurpose/TkAluminium {TkAl}
+/GeneralPurpose/TkSilicon 0.1
+/run/reinitializeGeometry
+
+
+/gps/particle e- 
+/gps/ene/min 0.01 MeV
+/gps/ene/max 20 MeV
+/NameOfFile/NameOfFile Al_{TkAl}_e
+
+
+/run/beamOn 1000000
+
+/gps/particle proton
+/gps/ene/min 0.01 MeV
+/gps/ene/max 300 MeV
+/NameOfFile/NameOfFile Al_{TkAl}_p
+
+
+/run/beamOn 1000000
